@@ -7,7 +7,7 @@ Project aims to create a real checkout page of e-commerce website.
 
 ## Learning Outcomes
 
-At the end of the this project, students will be able to;
+At the end of the this project,
 
 - analyze a problem, create e-commerce website page.
 
